@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Evidence Standard
+    url: https://github.com/
+    about: Follow docs/EVIDENCE_STANDARD.md before opening issues.
